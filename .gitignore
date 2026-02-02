@@ -3,7 +3,6 @@ __pycache__/
 *.so
 .env
 venv/
-myenv/
 .vscode/
 .DS_Store
 *.log
